@@ -1,6 +1,4 @@
 
-Mana, to'liqroq, senior darajadagi GitHub bio tayyor:
-
 👋 Hi, I’m @RamizjonSheraliyev
 🚀 A front-end developer with a passion for creating visually stunning and user-centric websites.
 

@@ -21,10 +21,6 @@ Fun Facts
 🎮 Hobbies:
 PUBG enthusiast and dedicated gamer during free time
 Exploring creative side projects and pushing the limits of web design
-💻 Gear: iPhone 13 Pro Max & MacBook M1 Pro
-❤️ Interests:
-Cars: Big fan of Mercedes-Benz, planning to own a Kia K9 or Malibu
-Football: Die-hard Real Madrid supporter
 🌟 Personal traits: Caring, cheerful, and always improving
 📫 How to reach me:
 

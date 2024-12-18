@@ -25,6 +25,7 @@
 <code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="50px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50px"></code>
 <code><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZocmhya3FvdWJhY3FqZWVqNnYwYTUzMHU4a2xhMW84emF3cGl4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.webp" width="50px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s" width="50px"></code>
 <br />
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere

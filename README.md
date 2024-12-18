@@ -20,7 +20,6 @@
 <code><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNod3kxdXltaW9td3AyeXNwa2t0aWNkdGdmNW4wM2JqMzR2MG14byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.webp" width="50px"></code>
 <code><img src="https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg" width="50px"></code>
 <code><img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" width="50px"></code>
-<code><img src="https://pbs.twimg.com/profile_images/1385265180859420676/lcSsp8C8_400x400.jpg" width="50px"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="50px"></code>
 <code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="50px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50px"></code>

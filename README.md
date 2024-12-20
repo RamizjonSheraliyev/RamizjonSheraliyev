@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekkhabibullaev&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekkhabibullaev" /> </p>
 
-### Hi, I'm Ramizjon Sheraliyev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+### Hello, I'm Ramizjon Sheraliyev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
  
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUyZWEzaDE5YXg2enRwYjNvMHRhbmRneTZrN29pNjd3NmxtcTgwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="100px">
 🔥 I make videos on YouTube about software development. <br />

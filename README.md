@@ -9,7 +9,7 @@
 🔥 I make videos on YouTube about software development. <br />
 ❤️ I work remotely and love to travel a lot. I am passionate about building impactful web applications and collaborating with global teams. <br />
 💻 Currently focusing on mastering full-stack development to bring my ideas to life. <br />
-🚀 
+🚀  Always looking for new challenges and learning opportunities to improve my skills!
 
 <br />
 

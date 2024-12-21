@@ -29,7 +29,7 @@
 <code> <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" width="50px"></code>
 <br />
 
-- 📍 &nbsp;  
+- 📍 &nbsp;   Current location: Uzbekistan Anywhere
 - 📝&nbsp;   Ask me about anything, I am happy to help
 - 📨&nbsp; How to reach me: [@RamizjonSheraliyev](https://instagram.com/ramiz_.kbr_/)
 

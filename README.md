@@ -6,7 +6,7 @@
 ### Hi, I'm Ramizjon Sheraliyev      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
  
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUyZWEzaDE5YXg2enRwYjNvMHRhbmRneTZrN29pNjd3NmxtcTgwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="100px">
-🔥 I make videos on YouTube about software development.  <br />
+🔥    <br />
 ❤️ I work remotely and love to travel a lot. I am passionate about building impactful web applications and collaborating with global teams. <br />
 💻 Currently focusing on mastering full-stack development to bring my ideas to life. <br />
 🚀  Always looking for new challenges and learning opportunities to improve my skills!

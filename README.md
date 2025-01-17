@@ -36,6 +36,6 @@
         <img src="https://img.shields.io/github/followers/ramizjonsheraliyev?style=social" alt="GitHub Follow"/>
     </a>
       <a href="https://www.instagram.com/ramiz_.kbr_/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-ramiz_.kbr_-purple?style=social&logo=instagram" alt="Instagram"/>
+        <img src="https://img.shields.io/badge/Instagram-ramiz_sheraliyev_-purple?style=social&logo=instagram" alt="Instagram"/>
     </a>
 </p>

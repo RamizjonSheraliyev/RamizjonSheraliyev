@@ -26,6 +26,7 @@
 <code><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZocmhya3FvdWJhY3FqZWVqNnYwYTUzMHU4a2xhMW84emF3cGl4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.webp" width="50px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT1MO4Ln0Ynz4VKkD2EDyylsYzoVg1d8FiQ&s" width="50px"></code>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <br />
 
 - 📍 &nbsp;   Current location: Uzbekistan Anywhere

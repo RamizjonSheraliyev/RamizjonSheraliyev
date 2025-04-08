@@ -16,7 +16,7 @@ based solutions.   <br />
 
 <br />
 
-### Languages and tools I work with  and currently learning:
+### Languages and Skills:
 
  <code><img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" width="50px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThudYr3yXJ7sOJocdFEu6KHwBxtNx_DWiHOQ&s " width="50px"></code>

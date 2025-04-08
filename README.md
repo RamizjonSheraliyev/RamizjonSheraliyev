@@ -31,6 +31,9 @@
 <br />
 <br /> 
 <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px"></code>
+<code><img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" width="50px"></code>
+<code><img src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" width="50px"></code>
+<code><img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" width="50px"></code>
 
  
 <br />

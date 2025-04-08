@@ -40,6 +40,9 @@
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDOJeTNGLnHgEwynN6PRxhJPFUKxWtZRloA&s" width="50px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" width="50px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszCXd5b0Fpuxou1hMOiLTtygtpelEtIrBBw&s" width="50px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYBSzBs5noRXNfjOS93cEoSqXAyevN4vOF1Q&s" width="50px"></code>
+<code><img src="https://www.npmjs.com/npm-avatar/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdmF0YXJVUkwiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci9iYjEzYWViNTFjNTQ0MjFhN2E1NTQwYTcxMzI4OTVkYz9zaXplPTQ5NiZkZWZhdWx0PXJldHJvIn0.FnWJxluT5VvnfpnQsm2K2I1GK-k0_NAmWtu3G-u3fE0" width="50px"></code>
+
 
 
 

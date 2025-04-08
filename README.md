@@ -15,7 +15,7 @@
 
 ### Languages and tools I work with  and currently learning:
 
-<code><img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/22-512.png" width="50px"></code>
+ 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThudYr3yXJ7sOJocdFEu6KHwBxtNx_DWiHOQ&s " width="50px"></code>
 <code><img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="50px"></code>
 <code><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNod3kxdXltaW9td3AyeXNwa2t0aWNkdGdmNW4wM2JqMzR2MG14byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.webp" width="50px"></code>

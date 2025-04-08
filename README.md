@@ -35,6 +35,15 @@
 <code><img src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" width="50px"></code>
 <code><img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" width="50px"></code>
 
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nnKQ61qhCfpnxJvdhaVwvIAm2wLsDp5gUQ&s" width="50px"></code>
+<code><img src= "https://cdn-icons-png.flaticon.com/256/2164/2164832.png" width="50px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST2gq0EJbNr7VkQ0GQ1yQ_Vs3sKZd9yQVP8g&s" width="50px"></code>
+
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfDOJeTNGLnHgEwynN6PRxhJPFUKxWtZRloA&s" width="50px"></code>
+<code><img src="https://static-00.iconduck.com/assets.00/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" width="50px"></code>
+
+
+
  
 <br />
 

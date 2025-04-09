@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekkhabibullaev&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekkhabibullaev" /> </p>
 
- ###    Hi I'm Ramiz Sheraliyev    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+ ###   <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RamizSheraliyev;" />
+</h1>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
  
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHUyZWEzaDE5YXg2enRwYjNvMHRhbmRneTZrN29pNjd3NmxtcTgwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="100px">
 🔥 Full-Stack Software Developer with 4+ years of experience in designing, developing, and optimizing

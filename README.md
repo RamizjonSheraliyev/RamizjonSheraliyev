@@ -76,7 +76,7 @@ based solutions.   <br />
 
 - 📍 &nbsp;   Current location: Uzbekistan Anywhere
 - 📝&nbsp;   Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@RamizjonSheraliyev](https://instagram.com/ramiz_.kbr_/)
+
 
 <p align="left"> 
     <a href="https://github.com/ramizjonsheraliyev" target="_blank">

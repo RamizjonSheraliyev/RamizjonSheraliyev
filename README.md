@@ -16,7 +16,7 @@ development. Skilled in Agile methodologies, mentoring junior developers, and de
 based solutions.   <br />
 💻 Currently focusing on mastering full-stack development to bring my ideas to life. <br />
 🚀  Always looking for new challenges and learning opportunities to improve my skills!  <br />
-                                                                                                                                                                                                                                                                                                                                                  
+📫 How to reach me     ramizjonsheraliyev19@gmail.com                                                                                                                                                                                                                                                                                                                                                    
  
 <br />
 <br />
